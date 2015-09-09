@@ -1,0 +1,16 @@
+{
+    "require": {
+        "silex/silex": "~1.0",
+        "symfony/finder": "^2.7",
+        "symfony/twig-bridge": "^2.7"
+    },
+    "require-dev": {
+        "guzzle/guzzle": "~3.7"
+    },
+    "autoload" : {
+        "psr-0": {
+            "yanniboi\\yAPIboi": "src/"
+        }
+    }
+
+}
